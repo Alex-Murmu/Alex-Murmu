@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **react, java, REST-APIs**
 
-- 📫 How to reach me **ft.alexrayen@gmail.com**
+- 📫 For Query **ft.alexrayen@gmail.com**
 
 - ⚡ Fun fact **I can't sleep**
 
