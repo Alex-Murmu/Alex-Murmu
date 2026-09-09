@@ -9,297 +9,255 @@
 
   Full-stack developer • Builder • Problem solver
 -->
-
+````md
 <div align="center">
 
-# ALEX<span style="color:#E8913C">.</span>MURMU
+<br><br>
 
-### `full-stack developer` · `builder` · `open-source enthusiast`
+# ALEX MURMU<span style="color:#E8913C">.</span>
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=22&pause=1100&color=EDE7DC&center=true&vCenter=true&width=720&lines=Building+clean+interfaces+and+useful+systems;React+%2B+Next.js+%2B+Node.js;TypeScript+%2B+JavaScript;Turning+ideas+into+shipped+products" alt="Typing animation" />
+**FULL-STACK DEVELOPER · BUILDER**
 
-<br/>
+<br>
 
-<a href="mailto:ft.alexrayen@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-E8913C?style=for-the-badge&logo=gmail&logoColor=0A0C0E" />
-</a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LINKEDIN-EDE7DC?style=for-the-badge&logo=linkedin&logoColor=0A0C0E" />
-</a>
-<a href="https://github.com/Alex-Murmu">
-  <img src="https://img.shields.io/badge/GITHUB-101317?style=for-the-badge&logo=github&logoColor=EDE7DC" />
-</a>
+I build interfaces, developer tools, and useful products.
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Alex-Murmu&label=PROFILE+VIEWS&color=E8913C&style=flat-square" />
+[ GitHub ] · [ LinkedIn ] · [ Email ]
+
+<br><br>
 
 </div>
 
 ---
 
-## / about
+<br>
 
-I’m **Alex Murmu**, a full-stack developer focused on turning ideas into practical products.
+<div align="center">
 
-I enjoy working across the stack — from interfaces and interactions to APIs, databases, automation and deployment.
+`01 — INTRO`
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   I BUILD                                                     │
-│                                                              │
-│   interfaces         →  React / Next.js                     │
-│   backend systems    →  Node.js / Express                   │
-│   developer tools    →  TypeScript / CLI                    │
-│   mobile products    →  React Native                         │
-│   data workflows     →  automation / dashboards             │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-````
+</div>
 
-### Currently interested in
+<br>
 
-`product engineering` · `developer tools` · `AI applications` · `automation` · `clean UI`
+## I like making complicated things feel simple.
+
+I'm Alex — a full-stack developer working primarily with **React, Next.js, Node.js and TypeScript**.
+
+I enjoy taking an idea from:
+
+**problem → interface → system → product**
+
+My work sits somewhere between software engineering, product thinking and design.
+
+<br>
 
 ---
 
-## / stack
+<div align="center">
 
-### Languages
+`02 — SELECTED WORK`
 
-`JavaScript` `TypeScript` `C++` `Java` `SQL` `HTML` `CSS`
+</div>
 
-### Frameworks & runtime
+<br>
 
-`React.js` `Next.js` `Node.js` `Express.js` `React Native`
+# CHURN CLI
 
-### Libraries & tools
+### Project scaffolding, without the repetitive setup.
 
-`Tailwind CSS` `ShadCN UI` `Material UI` `Framer Motion` `Recoil` `WebSocket`
+**TypeScript · Bun · CLI · GitHub Actions · npm**
 
-### Data & infrastructure
+Churn is a developer CLI that generates ready-to-use project foundations from the command line.
 
-`MongoDB` `Docker` `Git` `GitHub Actions` `Bash` `npm` `Bun`
+It was built around one simple question:
 
-### Design
+> Why should starting a new project require doing the same setup again?
 
-`Figma` `UI/UX` `Motion Design`
+<br>
 
----
+**15+** templates  
+**4** languages  
+**4** package managers  
+**HTTP + WebSocket**  
+**Prisma**  
+**Foundry / Hardhat**  
+**TypeScript path aliases**
 
-# / selected work
+<br>
 
-## `01` — Churn CLI
+Published to npm and used across **10,000+ installs**.
 
-> Developer tooling for generating production-ready project foundations.
+`npx churn-cli`
 
-**TypeScript · Bun · Chalk · EJS · GitHub Actions · npm**
+[ View repository → ]
 
-A CLI scaffolding system designed to make starting new projects faster and more consistent.
-
-**Highlights**
-
-* `15+` project templates
-* `4` programming languages
-* `4` package managers
-* HTTP + WebSocket project support
-* Prisma ORM integration
-* EVM initialization with Foundry / Hardhat
-* TypeScript path aliases
-* Automated GitHub Actions CI/CD
-* Published to npm
-* `100+` weekly downloads
-* `10,000+` total installs
-
-**Why I built it**
-
-Starting a new project often means repeating the same setup.
-
-Churn turns that repetition into a command.
-
-```bash
-npx churn-cli
-```
-
-<a href="https://www.npmjs.com/">
-  <img src="https://img.shields.io/badge/NPM-PUBLISHED-E8913C?style=flat-square&logo=npm&logoColor=0A0C0E" />
-</a>
+<br><br>
 
 ---
 
-## `02` — Mudir
+# MUDIR
 
-> Offline-first inventory management built for real-world workflows.
+### Inventory management for workflows that don't always have a connection.
 
 **React Native · JSON · Cloud Sync · AI**
 
-Mudir is a cross-platform stock management application designed around simple inventory workflows.
+Mudir is a cross-platform stock management application designed around an offline-first workflow.
 
-**Highlights**
+The idea is straightforward:
 
-* Local JSON-based storage
-* Offline-first workflow
-* Inventory import / export
-* Cloud synchronization
-* Multi-device access
-* AI-assisted collection generation
-* Natural-language ledger creation
+**store locally → work offline → sync when connected**
 
-The goal:
+It supports inventory import/export, cloud synchronization, multi-device access and AI-assisted collection and ledger generation.
+
+<br>
+
+[ View repository → ]
+
+<br><br>
+
+---
+
+<div align="center">
+
+`03 — EXPERIENCE`
+
+</div>
+
+<br>
+
+### WPDCL Coil Mine Company
+
+**IT SUPPORT SPECIALIST · 2024 — 2025**
+
+Digitalized operational workflows across vehicle movement, coil inventory, load allocation and logistics.
+
+Built centralized Excel systems and dashboards that made it possible to answer:
+
+> **Which vehicle? Where? Why? With what load?**
+
+Also automated reporting, validation and data aggregation while helping the local workforce adopt digital workflows.
+
+<br>
+
+### ARDENT COMPUTECH
+
+**ANDROID DEVELOPER INTERN · 2023**
+
+Worked on production-oriented Android applications, including an automated billing system.
+
+Contributed across UI, backend integration, debugging, feature development and deployment.
+
+<br>
+
+---
+
+<div align="center">
+
+`04 — TOOLBOX`
+
+</div>
+
+<br>
+
+### LANGUAGES
+
+`JavaScript` · `TypeScript` · `C++` · `Java` · `SQL` · `HTML` · `CSS`
+
+### WEB
+
+`React` · `Next.js` · `Node.js` · `Express`
+
+### UI / MOTION
+
+`Tailwind CSS` · `shadcn/ui` · `Material UI` · `Framer Motion`
+
+### DATA / REAL-TIME
+
+`MongoDB` · `WebSocket` · `JSON`
+
+### DEVTOOLS
+
+`Git` · `GitHub` · `Docker` · `Bun` · `npm` · `Bash` · `VS Code`
+
+### DESIGN
+
+`Figma` · `UI/UX`
+
+<br>
+
+---
+
+<div align="center">
+
+`05 — HOW I WORK`
+
+</div>
+
+<br>
 
 ```text
-less manual work
-        ↓
-better organization
-        ↓
-faster decisions
-```
+01   Understand the problem
+     ↓
+02   Remove unnecessary complexity
+     ↓
+03   Design the experience
+     ↓
+04   Build the system
+     ↓
+05   Ship it
+     ↓
+06   Iterate
+````
 
----
+<br>
 
-# / experience
-
-### IT Support Specialist
-
-**WPDCL Coil Mine Company · 2024 — 2025**
-
-Worked on digitalizing mine and logistics operations.
-
-Built Excel-based systems for:
-
-`vehicle movement` · `coil inventory` · `load allocation` · `route analytics`
-
-Created centralized dashboards for:
-
-`transport volumes` · `delays` · `resource utilization`
-
-Also automated reporting and data validation workflows while helping teams adopt digital tools.
-
----
-
-### Android Developer Intern
-
-**ARDENT COMPUTECH Pvt. Ltd. · 2023**
-
-Worked on production-oriented Android applications with a focus on billing workflows, backend integration and usability.
-
-Contributed across:
-
-`UI/UX` · `feature development` · `debugging` · `deployment` · `performance`
-
----
-
-# / education
-
-### Bachelor of Technology
-
-**Computer Science & Engineering**
-
-**Dumka Engineering College**
-2021 — 2024
-
-`CGPA: 6.3`
-
----
-
-# / what I care about
-
-```text
-01  BUILD
-    Make things that people can actually use.
-
-02  SIMPLIFY
-    Remove unnecessary complexity.
-
-03  SHIP
-    A working product beats an unfinished idea.
-
-04  LEARN
-    Keep exploring better tools and better ways to build.
-
-05  IMPROVE
-    Iterate based on real feedback.
-```
-
----
-
-# / github activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Alex-Murmu&show_icons=true&hide_border=true&bg_color=0A0C0E&title_color=EDE7DC&text_color=9EA5A8&icon_color=E8913C&ring_color=2E6B72&include_all_commits=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Murmu&layout=compact&hide_border=true&bg_color=0A0C0E&title_color=EDE7DC&text_color=9EA5A8" height="165" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Alex-Murmu&hide_border=true&background=0A0C0E&ring=E8913C&fire=E8913C&currStreakLabel=EDE7DC&sideLabels=9EA5A8&dates=6C7378&currStreakNum=EDE7DC&sideNums=EDE7DC" />
-
-</div>
-
----
-
-# / contribution trail
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Alex-Murmu/Alex-Murmu/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
-
-</div>
-
----
-
-# / currently building
-
-```text
-████████████████████████████████████████  100%
-
-→ full-stack products
-→ developer tooling
-→ AI-powered workflows
-→ better developer experiences
-```
-
----
-
-# / philosophy
-
-> Build with intent.
-> Keep the interface quiet.
-> Let the product do the talking.
+I care more about **what a product does for someone** than how many technologies are listed on it.
 
 ---
 
 <div align="center">
 
-### `ALEX.MURMU`
+`06 — NOW`
 
-<sub>Full-stack developer · India</sub>
+</div>
 
-<br/><br/>
+<br>
 
-`React` · `Next.js` · `Node.js` · `TypeScript` · `React Native`
+Currently exploring:
 
-<br/><br/>
+**AI-powered products**
+**developer tooling**
+**automation**
+**full-stack systems**
+**better interfaces**
 
-<a href="mailto:ft.alexrayen@gmail.com">LET'S BUILD SOMETHING</a>
+<br><br>
 
-<br/><br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0C0E,100:101317&height=90&section=footer" />
+<div align="center">
+
+## LET'S BUILD SOMETHING USEFUL<span style="color:#E8913C">.</span>
+
+<br>
+
+<a href="mailto:ft.alexrayen@gmail.com">[ft.alexrayen@gmail.com](mailto:ft.alexrayen@gmail.com)</a>
+
+<br><br>
+
+`ALEX MURMU`
+`FULL-STACK DEVELOPER`
+
+<br><br>
 
 </div>
 ```
 
-One thing I would change before publishing: replace the placeholder LinkedIn URL with your **actual LinkedIn profile URL**. Also, the contribution-snake image requires a GitHub Actions workflow in your profile repository; otherwise that particular animation will not render.
+This version is deliberately **less crowded**: no fake badges, no giant GitHub-stat dashboard, no emoji wall, and no unnecessary skill-card clutter. The hierarchy is meant to feel like a small design studio site: **identity → philosophy → selected work → experience → tools → current direction → contact**.
+
+One important limitation: GitHub's profile README does **not** reliably support arbitrary CSS like `letter-spacing`, custom fonts, hover animations, or scroll-triggered motion. The visual language from your reference can be approximated, but a truly animated version needs to be a **portfolio website**, with the README acting as the minimal entry point.
 
 The visual direction here intentionally uses the same **near-black + bone + amber + teal** language from your reference, but adapts it to what GitHub README files can actually render.
