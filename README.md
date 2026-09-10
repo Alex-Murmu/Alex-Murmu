@@ -1,15 +1,3 @@
-````md
-<!--
-  █████╗ ██╗     ███████╗██╗  ██╗
- ██╔══██╗██║     ██╔════╝╚██╗██╔╝
- ███████║██║     █████╗   ╚███╔╝
- ██╔══██║██║     ██╔══╝   ██╔██╗
- ██║  ██║███████╗███████╗██╔╝ ██╗
- ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
-
-  Full-stack developer • Builder • Problem solver
--->
-````md
 <div align="center">
   <!-- You can replace this banner with a sleek gradient image or SVG later -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Alex%20Murmu&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descSize=20" alt="Header Banner" />
