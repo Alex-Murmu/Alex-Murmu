@@ -11,253 +11,119 @@
 -->
 ````md
 <div align="center">
-
-<br><br>
-
-# ALEX MURMU<span style="color:#E8913C">.</span>
-
-**FULL-STACK DEVELOPER · BUILDER**
-
-<br>
-
-I build interfaces, developer tools, and useful products.
-
-<br><br>
-
-[ GitHub ] · [ LinkedIn ] · [ Email ]
-
-<br><br>
-
+  <!-- You can replace this banner with a sleek gradient image or SVG later -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Alex%20Murmu&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descSize=20" alt="Header Banner" />
+  
+  <br/>
+  
+  <p>
+    <b>Building scalable web apps, robust APIs, and developer tools.</b>
+  </p>
+  
+  <p>
+    <a href="mailto:ft.alexrayen@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://linkedin.com/in/Alex-Murmu"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  </p>
 </div>
 
 ---
 
-<br>
+## ⚡ About Me
+
+I'm a full-stack developer focused on building production-ready web applications and agentic dev tools. I love turning complex logic into seamless digital experiences. Whether it's crafting responsive frontends with **Next.js/React**, building CLI tooling, or optimizing data pipelines, I enjoy working across the entire stack.
+
+- 🎓 **Education:** B.Tech in Computer Science & Engineering (Dumka Engineering College)
+- 🚀 **Currently exploring:** Advanced CLI tooling, Agentic workflows, and Modern Web Architectures
+
+---
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
+  
+**Languages**<br/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 
-`01 — INTRO`
+<br/>**Frameworks & Libraries**<br/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+
+<br/>**Databases & Tools**<br/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 
 </div>
 
-<br>
+---
 
-## I like making complicated things feel simple.
+## 🚀 Featured Projects
 
-I'm Alex — a full-stack developer working primarily with **React, Next.js, Node.js and TypeScript**.
-
-I enjoy taking an idea from:
-
-**problem → interface → system → product**
-
-My work sits somewhere between software engineering, product thinking and design.
-
-<br>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📦 <a href="#">Churn CLI</a></h3>
+      <p><i>Enterprise-grade CLI scaffolding tool built for speed and DX. Achieved 10,000+ total installs on the npm registry.</i></p>
+      <b>Tech Stack:</b> <code>TypeScript</code> <code>Bun</code> <code>Chalk</code> <code>GitHub Actions</code>
+      <ul>
+        <li>15+ project templates supporting 4 languages & package managers.</li>
+        <li>Interactive UI for zero-config project generation.</li>
+        <li>Built-in EVM contract initialization and Prisma ORM integration.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 <a href="#">Mudir</a></h3>
+      <p><i>Cross-platform, offline-first stock management application powered by AI.</i></p>
+      <br/>
+      <b>Tech Stack:</b> <code>React Native</code> <code>JSON Sync</code> <code>AI Integrations</code>
+      <ul>
+        <li>Local JSON storage for seamless offline usage with cloud-sync backup.</li>
+        <li>Generates custom organizational ledgers from natural language input via AI.</li>
+        <li>Smooth import/export workflows for inventory data.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
+
+## 💼 Experience
+
+### 🖥️ IT Support Specialist | *WPDCL Coil Mine Company*
+`Oct 2024 – Jan 2025`
+> Led digital transformation efforts for local mining operations.
+- Engineered advanced Excel-based tracking systems to digitize vehicle movement, coil inventory, and route analytics.
+- Built centralized dashboards to monitor logistics, drastically improving operational decision-making.
+- Streamlined reporting by automating data aggregation, cutting down manual logistics errors.
+
+### 🤖 Android Developer Intern | *ARDENT COMPUTECH Pvt Ltd*
+`Jul 2023 – Sep 2023`
+> Focused on mobile performance and scalable UI/UX.
+- Developed an automated billing Android application that streamlined transaction workflows.
+- Managed end-to-end development lifecycles including real-time data handling, debugging, and backend integration.
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-
-`02 — SELECTED WORK`
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Alex-Murmu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-Murmu&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
 </div>
 
-<br>
-
-# CHURN CLI
-
-### Project scaffolding, without the repetitive setup.
-
-**TypeScript · Bun · CLI · GitHub Actions · npm**
-
-Churn is a developer CLI that generates ready-to-use project foundations from the command line.
-
-It was built around one simple question:
-
-> Why should starting a new project require doing the same setup again?
-
-<br>
-
-**15+** templates  
-**4** languages  
-**4** package managers  
-**HTTP + WebSocket**  
-**Prisma**  
-**Foundry / Hardhat**  
-**TypeScript path aliases**
-
-<br>
-
-Published to npm and used across **10,000+ installs**.
-
-`npx churn-cli`
-
-[ View repository → ]
-
-<br><br>
-
----
-
-# MUDIR
-
-### Inventory management for workflows that don't always have a connection.
-
-**React Native · JSON · Cloud Sync · AI**
-
-Mudir is a cross-platform stock management application designed around an offline-first workflow.
-
-The idea is straightforward:
-
-**store locally → work offline → sync when connected**
-
-It supports inventory import/export, cloud synchronization, multi-device access and AI-assisted collection and ledger generation.
-
-<br>
-
-[ View repository → ]
-
-<br><br>
-
----
+<br/>
 
 <div align="center">
-
-`03 — EXPERIENCE`
-
+  <i>"Writing code that matters, one commit at a time."</i>
 </div>
-
-<br>
-
-### WPDCL Coil Mine Company
-
-**IT SUPPORT SPECIALIST · 2024 — 2025**
-
-Digitalized operational workflows across vehicle movement, coil inventory, load allocation and logistics.
-
-Built centralized Excel systems and dashboards that made it possible to answer:
-
-> **Which vehicle? Where? Why? With what load?**
-
-Also automated reporting, validation and data aggregation while helping the local workforce adopt digital workflows.
-
-<br>
-
-### ARDENT COMPUTECH
-
-**ANDROID DEVELOPER INTERN · 2023**
-
-Worked on production-oriented Android applications, including an automated billing system.
-
-Contributed across UI, backend integration, debugging, feature development and deployment.
-
-<br>
-
----
-
-<div align="center">
-
-`04 — TOOLBOX`
-
-</div>
-
-<br>
-
-### LANGUAGES
-
-`JavaScript` · `TypeScript` · `C++` · `Java` · `SQL` · `HTML` · `CSS`
-
-### WEB
-
-`React` · `Next.js` · `Node.js` · `Express`
-
-### UI / MOTION
-
-`Tailwind CSS` · `shadcn/ui` · `Material UI` · `Framer Motion`
-
-### DATA / REAL-TIME
-
-`MongoDB` · `WebSocket` · `JSON`
-
-### DEVTOOLS
-
-`Git` · `GitHub` · `Docker` · `Bun` · `npm` · `Bash` · `VS Code`
-
-### DESIGN
-
-`Figma` · `UI/UX`
-
-<br>
-
----
-
-<div align="center">
-
-`05 — HOW I WORK`
-
-</div>
-
-<br>
-
-```text
-01   Understand the problem
-     ↓
-02   Remove unnecessary complexity
-     ↓
-03   Design the experience
-     ↓
-04   Build the system
-     ↓
-05   Ship it
-     ↓
-06   Iterate
-````
-
-<br>
-
-I care more about **what a product does for someone** than how many technologies are listed on it.
-
----
-
-<div align="center">
-
-`06 — NOW`
-
-</div>
-
-<br>
-
-Currently exploring:
-
-**AI-powered products**
-**developer tooling**
-**automation**
-**full-stack systems**
-**better interfaces**
-
-<br><br>
-
----
-
-<div align="center">
-
-## LET'S BUILD SOMETHING USEFUL<span style="color:#E8913C">.</span>
-
-<br>
-
-<a href="mailto:ft.alexrayen@gmail.com">[ft.alexrayen@gmail.com](mailto:ft.alexrayen@gmail.com)</a>
-
-<br><br>
-
-`ALEX MURMU`
-`FULL-STACK DEVELOPER`
-
-<br><br>
-
-</div>
-```
-
-This version is deliberately **less crowded**: no fake badges, no giant GitHub-stat dashboard, no emoji wall, and no unnecessary skill-card clutter. The hierarchy is meant to feel like a small design studio site: **identity → philosophy → selected work → experience → tools → current direction → contact**.
-
-One important limitation: GitHub's profile README does **not** reliably support arbitrary CSS like `letter-spacing`, custom fonts, hover animations, or scroll-triggered motion. The visual language from your reference can be approximated, but a truly animated version needs to be a **portfolio website**, with the README acting as the minimal entry point.
-
-The visual direction here intentionally uses the same **near-black + bone + amber + teal** language from your reference, but adapts it to what GitHub README files can actually render.
