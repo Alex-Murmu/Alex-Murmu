@@ -60,27 +60,7 @@ I'm a full-stack developer focused on building production-ready web applications
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>📦 <a href="#">Churn CLI</a></h3>
-      <p><i>Enterprise-grade CLI scaffolding tool built for speed and DX. Achieved 10,000+ total installs on the npm registry.</i></p>
-      <b>Tech Stack:</b> <code>TypeScript</code> <code>Bun</code> <code>Chalk</code> <code>GitHub Actions</code>
-      <ul>
-        <li>15+ project templates supporting 4 languages & package managers.</li>
-        <li>Interactive UI for zero-config project generation.</li>
-        <li>Built-in EVM contract initialization and Prisma ORM integration.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📱 <a href="#">Mudir</a></h3>
-      <p><i>Cross-platform, offline-first stock management application powered by AI.</i></p>
-      <br/>
-      <b>Tech Stack:</b> <code>React Native</code> <code>JSON Sync</code> <code>AI Integrations</code>
-      <ul>
-        <li>Local JSON storage for seamless offline usage with cloud-sync backup.</li>
-        <li>Generates custom organizational ledgers from natural language input via AI.</li>
-        <li>Smooth import/export workflows for inventory data.</li>
-      </ul>
-    </td>
+   
   </tr>
 </table>
 
